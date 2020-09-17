@@ -1,0 +1,4 @@
+[submodule "react-app"]
+	path = react-app
+	url = git@github.com:sarwaco/fsd-ams-react-app.git
+	branch = master
