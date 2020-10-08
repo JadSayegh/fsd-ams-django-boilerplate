@@ -28,6 +28,3 @@ The following should happen in a terminal with `venv` activated (often this mean
 | Route | Description |
 | ------ | ------ |
 | 127.0.0.1:8000/api/accounts/ | Get all accounts |
-
-
-### Assignment
